@@ -12,14 +12,16 @@ baggage router problem
 <li> import the cloned project into IDE</li>
 <li>maven build </li>
 
-<h4>RUN IN Eclispe/IntelliJ: <h4>
-expand the project and look for this runner file
-BagRouterRunner.java run as Java application to get the desired output
+<h4>RUN IN Eclispe/IntelliJ: </h4>
+<p>expand the project and look for this runner file
+BagRouterRunner.java run as Java application to get the desired output </p>
 
-JUnit: 
+JUnit:
+to run the test cases you can just run the following test suite
 FullSuite.java
 
 <h4>Design:<h4>
-<p>leveraged the OOPS techniques to modularize the application. created seperare modules for each section in the input.
-graph problem reslolved by using dijkstra algorithm for finding the shortest path between nodes </p>
-Dickstra algorithm review:
+<p>leveraged the OOPS techniques to modularize the application. created separate  modules for each section in the input.
+graph problem resolved by using dijkstra algorithm for finding the shortest path between nodes </p>
+
+
