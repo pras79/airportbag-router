@@ -18,7 +18,7 @@ JUnit:
 to run the test cases you can just run the following test suite
 FullSuite.java
 
-<h4>Design:<h4>
+<h4>Design:</h4>
 <p>leveraged the OOPS techniques to modularize the application. created separate  modules for each section in the input.
 graph problem resolved by using dijkstra algorithm for finding the shortest path between nodes </p>
 
